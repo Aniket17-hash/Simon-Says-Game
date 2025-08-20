@@ -1,0 +1,10 @@
+{
+  "name": "Simon Says Game",
+  "short_name": "SimonSays",
+  "description": "A fun Simon Says memory game.",
+  "author": "Aniket Satpute",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "wheat",
+  "theme_color": "#000000"
+}

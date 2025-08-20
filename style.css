@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: wheat;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.btn {
+    height: 230px;
+    width: 230px;
+    border-radius: 30%;
+    border: 10px solid black;
+    margin: 1.75rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+.yellow {
+    background-color: #f99b45;
+}
+.red {
+    background-color: #d95980;
+}
+.green {
+    background-color: #63aac0;
+}
+.purple {
+    background-color: #819ff9;
+}
+.flash{
+    background-color: white;
+}
+
+.userflash {
+    background-color:green;
+}
